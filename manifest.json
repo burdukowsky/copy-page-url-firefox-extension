@@ -18,17 +18,6 @@
       "background.js"
     ]
   },
-  "content_scripts": [
-    {
-      "matches": [
-        "<all_urls>"
-      ],
-      "js": [
-        "content-script.js"
-      ],
-      "run_at": "document_start"
-    }
-  ],
   "browser_action": {
     "browser_style": true,
     "default_icon": {
