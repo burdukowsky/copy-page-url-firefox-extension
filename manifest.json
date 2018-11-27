@@ -4,7 +4,7 @@
   "description": "Adds browser action icon to toolbar to copy web page URL.",
   "author": "Stanislav Burdukowsky",
   "homepage_url": "https://github.com/burdukowsky/copy-page-url-firefox-extension",
-  "version": "1.1",
+  "version": "1.2",
   "icons": {
     "48": "icons/48.png",
     "96": "icons/96.png"
